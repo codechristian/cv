@@ -54,3 +54,7 @@ section p, section h2 {
 ul {
     list-style-type: none;
 }
+
+.skills {
+    margin-bottom: 20px;
+}
